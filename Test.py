@@ -1,0 +1,10 @@
+import turtle
+auto = turtle.Pen()
+auto.shape("turtle")
+auto.forward(100)
+auto.left(90) 
+auto.forward(100)
+auto.left(90)
+auto.forward(100)
+auto.left(90)
+auto.reset()
